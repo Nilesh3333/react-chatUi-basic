@@ -1,0 +1,46 @@
+.received_msg {
+	display: inline-block;
+	padding: 0 0 0 10px;
+	vertical-align: top;
+    width: 50%;
+    
+}
+
+.received_withd_msg p {
+	background: #ebebeb none repeat scroll 0 0;
+	border-radius: 3px;
+	color: #646464;
+	font-size: 14px;
+    margin: 0;
+    float: left;
+	padding: 5px 10px 5px 12px;
+    width: 85%;
+    overflow: auto;
+}
+
+.received_withd_msg {
+    float: left;
+	width: 85%;
+}
+
+.sent_msg p {
+    background: blueviolet ;
+    float: right;
+	border-radius: 3px;
+	font-size: 14px;
+	color: #fff;
+	padding: 5px 10px 5px 12px;
+	width: 85%;
+}
+
+.outgoing_msg {
+	overflow: hidden;
+	margin: 10px 0 10px 0 ;
+}
+
+.sent_msg {
+	float: right;
+	width: 45%;
+}
+
+
